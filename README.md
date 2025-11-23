@@ -1,4 +1,4 @@
-# 🌌 Nexora — Multi-Community Social Media Platform
+#  Nexora — Multi-Community Social Media Platform
 
 ![Nexora Logo](https://i.ibb.co.com/RpSVW9jf/nexra.png)
 

@@ -1,6 +1,6 @@
 "use client";
 
-import { auth } from "@/firebase/firebase.config";
+import { auth } from "@/lib/firebase/firebase.config";
 import {
   createUserWithEmailAndPassword,
   GoogleAuthProvider,
