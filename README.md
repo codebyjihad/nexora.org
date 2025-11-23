@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+#  Nexora — Multi-Community Social Media Platform
 
-## Getting Started
+Nexora is a next-generation **multi-community social media application** built for  
+**Anime Fans**, **Gamers**, **Artists**, and **Content Creators**.  
+A single platform where creativity, entertainment, and community come together — powered by **Next.js + TypeScript**.
 
-First, run the development server:
+---
 
+## ✨ Features
+
+### 🎨 Anime Zone
+- Fan art, AMVs, cosplay, wallpapers  
+- Anime activities & trending content  
+
+### 🎮 Gaming Hub
+- Game clips, highlights, builds  
+- Player profiles & community posts  
+
+### 🖼️ Post Anything
+- Photos, videos, short clips, text posts  
+- Like, comment, share  
+- Smart hashtag categories  
+
+### 💬 Real-Time Chat
+- Private chat  
+- Group chat  
+- Message reactions & realtime updates  
+
+### 👤 Advanced Profiles
+- Followers/Following  
+- Bio, social links, badges  
+- Personal media gallery  
+
+### 🧭 Explore Universe
+- Trending creators  
+- Category-based content  
+- Personalized feed recommendations  
+
+---
+
+## 🧪 Tech Stack
+
+| Technology       | Purpose                       |
+|------------------|-------------------------------|
+| **Next.js**      | Frontend framework            |
+| **TypeScript**   | Type safety                   |
+| **Tailwind CSS** | Styling framework             |
+| **Firebase**     | Auth, Database, Storage       |
+| **MongoDB**     | DateBase               |
+| **Express**     | Back-end                  |
+| **Soket-io**| Real time chat                    |
+
+---
+
+## 📁 Project Structure
+
+## 🤝 How to Contribute
+
+We love contributions!  
+If you want to help improve this project, follow the steps below:
+
+### 1️⃣ Fork this repository
+Click the **Fork** button on the top-right of this page to create your own copy.
+
+### 2️⃣ Clone your fork
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+git clone 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
