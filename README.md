@@ -54,6 +54,8 @@ A single platform where creativity, entertainment, and community come together �
 
 ## 📁 Project Structure
 
+![Login Page Image](https://i.ibb.co.com/RpSVW9jf/nexra.png)
+
 ## 🤝 How to Contribute
 
 We love contributions!  
@@ -65,5 +67,7 @@ Click the **Fork** button on the top-right of this page to create your own copy.
 ### 2️⃣ Clone your fork
 ```bash
 git clone 
+
+
 
 
