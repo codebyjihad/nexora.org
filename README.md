@@ -1,4 +1,6 @@
-#  Nexora — Multi-Community Social Media Platform
+# 🌌 Nexora — Multi-Community Social Media Platform
+
+![Nexora Logo](https://i.ibb.co.com/RpSVW9jf/nexra.png)
 
 Nexora is a next-generation **multi-community social media application** built for  
 **Anime Fans**, **Gamers**, **Artists**, and **Content Creators**.  
@@ -27,7 +29,7 @@ A single platform where creativity, entertainment, and community come together �
 - Message reactions & realtime updates  
 
 ### 👤 Advanced Profiles
-- Followers/Following  
+- Followers / Following  
 - Bio, social links, badges  
 - Personal media gallery  
 
@@ -46,28 +48,11 @@ A single platform where creativity, entertainment, and community come together �
 | **TypeScript**   | Type safety                   |
 | **Tailwind CSS** | Styling framework             |
 | **Firebase**     | Auth, Database, Storage       |
-| **MongoDB**     | DateBase               |
-| **Express**     | Back-end                  |
-| **Soket-io**| Real time chat                    |
+| **MongoDB**      | Database                      |
+| **Express**      | Backend                       |
+| **Socket.io**    | Real-time chat                |
 
 ---
 
 ## 📁 Project Structure
-
-![Login Page Image](https://i.ibb.co.com/RpSVW9jf/nexra.png)
-
-## 🤝 How to Contribute
-
-We love contributions!  
-If you want to help improve this project, follow the steps below:
-
-### 1️⃣ Fork this repository
-Click the **Fork** button on the top-right of this page to create your own copy.
-
-### 2️⃣ Clone your fork
-```bash
-git clone 
-
-
-
 
